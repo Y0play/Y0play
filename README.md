@@ -17,19 +17,39 @@
 
 ### 🛠️ Langages & Outils
 <p align="left">
+  <!-- Java / Minecraft -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=minecraft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fabric-1.20-blue?style=for-the-badge&logo=minecraft"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+  <!-- Versions Minecraft -->
+  <img src="https://img.shields.io/badge/Minecraft_1.16-62b94f?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/1.17-62b94f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/1.18-62b94f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/1.19-62b94f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/1.20-62b94f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/1.21-62b94f?style=for-the-badge"/>
+
+  <!-- Web / Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <!-- Web / Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <!-- IDE & Tools -->
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -42,7 +62,7 @@
 
 ### 📊 Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoplay&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default" alt="GitHub Stats"/>
 </p>
 
 ---
