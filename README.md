@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est Jim 👋</h1>
+<h1 align="center">Salut, moi c’est Yoplay 👋</h1>
 <h3 align="center">Développeur Minecraft & Web Fullstack</h3>
 
 <p align="center">
@@ -42,6 +42,13 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+
+---
+
+<a href="https://www.curseforge.com/members/yoplay/projects" target="_blank">
+  <img src="https://img.shields.io/badge/CurseForge-Yoplay-orange?style=for-the-badge&logo=curseforge&logoColor=white"/>
+</a>
 
 
 ---
