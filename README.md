@@ -2,7 +2,6 @@
 <h3 align="center">Développeuse Fullstack & Scripteuse</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmqdK78kCFfqF784s9/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Banner"/>
 </p>
 
 ---
