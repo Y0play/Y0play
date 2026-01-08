@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c’est Yoplay 👋</h1>
-<h3 align="center">Développeuse Fullstack & Scripteuse</h3>
+<h3 align="center">Développeuse Fullstack</h3>
 
 <p align="center">
 </p>
