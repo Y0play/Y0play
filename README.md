@@ -1,65 +1,63 @@
 <h1 align="center">Salut, moi c’est Yoplay 👋</h1>
-<h3 align="center">Développeur Minecraft & Web Fullstack</h3>
+<h3 align="center">Développeuse Fullstack & Scripteuse</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZOxlV9f.jpeg" width="250" alt="Minecraft gif"/>
+  <img src="https://media.giphy.com/media/LmqdK78kCFfqF784s9/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Banner"/>
 </p>
 
 ---
 
 ### 🧱 À propos de moi
-- 🎮 Je développe des **plugins Spigot** et **mods Forge/Fabric** pour Minecraft (RP, systèmes économiques, HUD, etc.)
-- 🌐 Dev **Fullstack Web** (JS / React / NodeJS)
-- 🧰 Passionné par les systèmes complexes, l’immersion et l’optimisation serveur
-- 🚀 Toujours curieux d’apprendre & de créer des systèmes uniques
+- 🚔 **Principalement sur FiveM :** Création de scripts, optimisation serveur et développement d'interfaces UI (NUI).
+- 🔫 **Garry's Mod :** Scripting GLua pour DarkRP et modes de jeu personnalisés.
+- 🧊 **Minecraft :** Ancienne développeuse Java/Spigot (Actuellement en **pause** ⏸️).
+- 💻 **Fullstack :** J'aime lier le web (React/Vue) au jeu pour des HUDs et interfaces complexes.
+- 👩‍💻 Toujours passionnée par la création d'expériences RP immersives et uniques.
 
 ---
 
 ### 🛠️ Langages & Outils
+
+<h4 align="left">🕹️ Plateformes & Scripting</h4>
 <p align="left">
-  <!-- 🔧 Minecraft / Java -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=minecraft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fabric-1.20-blue?style=for-the-badge&logo=minecraft"/>
-  <img src="https://img.shields.io/badge/Forge-000000?style=for-the-badge&logo=minecraft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forge_API-303030?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minecraft_Modder-5C2D91?style=for-the-badge&logo=curseforge&logoColor=white"/>
-
-  <!-- 🌐 Web (Frontend + Backend) -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <!-- 🛠️ IDE & Tools -->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FiveM-F6421F?style=for-the-badge&logo=fivem&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Garry's_Mod-125AC2?style=for-the-badge&logo=steam&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minecraft-On_Hold-gray?style=for-the-badge&logo=minecraft&logoColor=white"/>
 </p>
 
+<h4 align="left">🌐 Web & UI (NUI)</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+<h4 align="left">💾 Backend & Outils</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-<a href="https://www.curseforge.com/members/yoplay/projects" target="_blank">
-  <img src="https://img.shields.io/badge/CurseForge-Yoplay-orange?style=for-the-badge&logo=curseforge&logoColor=white"/>
-</a>
+### 📌 État des projets :
 
-
----
-
-### 📌 En cours :
-- ⚔️ Un mod RP complet avec HUD style MMORPG
-- 🏦 Un plugin de banque avec intérêts & billets en NBT
-- 🌍 Systèmes de métiers, succès et lootbox persistants
+| Plateforme | Projet | Statut |
+| :--- | :--- | :--- |
+| **FiveM** | 🏎️ Refonte complète d'un framework RP & UI React | 🟢 **Actif** |
+| **GMod** | 🔫 Addons DarkRP exclusifs | 🟡 **Maintenance** |
+| **Minecraft** | ⛏️ Plugins Spigot & Mods | 🔴 **En pause** |
 
 ---
 
 ### 📫 Me contacter :
-- 💬 Discord : `@DoudouAdorable`
-- 📧 Mail : `beugniesjimmy@gmail.com`
+- 💬 Discord : `yoplayyy`
+- 📧 Mail Pro : `Alyabeugnies@gmail.com`
