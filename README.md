@@ -58,5 +58,5 @@
 ---
 
 ### 📫 Me contacter :
-- 💬 Discord : `yoplayyy`
+- 💬 Discord : `alyael_`
 - 📧 Mail Pro : `Alyabeugnies@gmail.com`
